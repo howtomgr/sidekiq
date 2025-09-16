@@ -1,0 +1,61 @@
+{
+  "category": "task-queues",
+  "created_date": "2025-09-15T22:48:59.075812",
+  "default_ports": [
+    80,
+    443,
+    6379
+  ],
+  "dependencies": [],
+  "description": "sidekiq is a free and open-source background jobs. Sidekiq provides simple, efficient background processing for Ruby",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/task-queues/sidekiq",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/task-queues/sidekiq",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:59.075831",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "sidekiq",
+  "repository_url": "https://github.com/howtomgr/sidekiq",
+  "spec_version": "2.0",
+  "subcategory": "task-queues",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "task-queues",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "sidekiq Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/task-queues/sidekiq"
+}
